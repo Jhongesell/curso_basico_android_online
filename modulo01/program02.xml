@@ -1,0 +1,8 @@
+<TextView
+    android:id="@+id/title_text_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/my_photos"
+    android:textAppearance="?android:textAppearanceLarge"
+    android:textColor="#4689C8"
+    android:textStyle="bold" />
